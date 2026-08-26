@@ -1,2 +1,2 @@
-# CIAO_GUSTAVO_2026
-REPOSITORIO DA DISCIPLINA DE INTELIGENCIA COMPUTACIONAL
+# CIAO_LR_2026
+Computational Intelligence &amp; Algorithm Optimization 
